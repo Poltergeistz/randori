@@ -1,4 +1,4 @@
-for (i=0;i<=100;i++;){
+for (i=0;i<=100;i++){
   // Pour i=0, i incremente 1 jusqu'à 100
   if (i%35 == 0){
     // si i est un multiple de 5 et 7
